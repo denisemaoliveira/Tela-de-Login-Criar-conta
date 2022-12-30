@@ -162,10 +162,10 @@ a::after {
   width: 0;
   height: 2px;
   position: absolute;
-  background: #d93856;
+  background: #d93857;
   bottom: -3px;
   left: 0;
-  transition: 0.3 ease;
+  transition: 0.4 ease;
 }
 
 a:hover::after {
