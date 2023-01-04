@@ -4,4 +4,4 @@
 As ferramentas utilizadas nesse projeto foram Figma, VSCode, HTML e CSS, aplicando os conhecimentos adquiridos nos módulos anteriores. </h3>
 
 <img src="https://raw.githubusercontent.com/denisemaoliveira/Tela-de-Login/ddc76b0bcea7b538b0e7764ba4cbc9ac649458eb/img/login.png" alt="login"  height="400px" width=""/>
-<img src="" alt="create"  height="400px" width=""/>
+<img src="https://github.com/denisemaoliveira/Tela-de-Login-Criar-conta/blob/master/img/create_account.png" alt="create"  height="400px" width=""/>
